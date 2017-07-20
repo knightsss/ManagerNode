@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TranquilitySchema:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TranquilitySchema_jar</output-path>
+    <root id="archive" name="TranquilitySchema.jar">
+      <element id="module-output" name="TranquilitySchema" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/mongo-java-driver-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/httpclient-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/httpclient-cache-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/httpclient-win-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/httpcore-4.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/httpmime-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/soft/java/lib/json-lib依赖jar包/commons-beanutils-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
